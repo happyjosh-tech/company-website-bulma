@@ -5,15 +5,15 @@ Company website template created with html and bulma css
 
 
 <div align="center">
-    <img src="/screenshot/screen1.jpg" width="400px"> 
+    <img src="/screenshot/screen1.png" width="400px"> 
 </div>
 
 <div align="center">
-    <img src="/screenshot/screen2.jpg" width="400px"> 
+    <img src="/screenshot/screen2.png" width="400px"> 
 </div>
 
 <div align="center">
-    <img src="/screenshot/screen3.jpg" width="400px"> 
+    <img src="/screenshot/screen3.png" width="400px"> 
 </div>
 
 
