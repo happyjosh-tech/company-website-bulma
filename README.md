@@ -13,3 +13,5 @@ Company website template created with html and bulma css
 
 
 ### Give me a star: www.github.com/happyjosh-tech
+
+### Hosted live via: https://happyjosh-tech.github.io/
